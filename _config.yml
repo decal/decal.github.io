@@ -98,8 +98,8 @@ markdown: kramdown
 sass:
   sourcemap: never
   style: compressed
-plugins:
-  - jekyll-seo-tag
+    #plugins:
+    #- jekyll-seo-tag
 
 # Publication settings
 baseurl: "" # the subpath of your site, e.g. /blog
