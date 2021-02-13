@@ -287,17 +287,17 @@
     </header>
     <div class="row gtr-200">
         <div class="col-6 col-12-medium col-12-small col-12-xsmall">
-            <form id="contact-form" method="post" action="javascript:void(0);" onsubmit="processContactRequest()" onreset="resetContactForm()">
+            <form id="contact-form" method="post" action="https://formspree.io/f/xoqpzvpq" onreset="resetContactForm()">
     <div class="row gtr-uniform">
         <div class="col-6 col-12-small col-12-xsmall">
-            <input type="text" name="contact-name" id="contact-name" value="" placeholder="Name" required="" minlength="4" maxlength="64" onfocusout="toggleSubmitInputElement()" />
+            <input type="text" name="name" id="contact-name" value="" placeholder="Name" required="" minlength="4" maxlength="64" onfocusout="toggleSubmitInputElement()" />
         </div>
         <div class="col-6 col-12-small col-12-xsmall">
-            <input type="email" name="contact-email" id="contact-email" value="" placeholder="Email" required="" minlength="8" maxlength="64" onfocusout="toggleSubmitInputElement()" />
+            <input type="email" name="_replyto" id="contact-email" value="" placeholder="Email" required="" minlength="8" maxlength="64" onfocusout="toggleSubmitInputElement()" />
         </div>
         <!-- Break -->
         <div class="col-12">
-            <textarea name="contact-message" id="contact-message" placeholder="Enter your message" rows="6" required="" minlength="16" maxlength="256" onfocusout="toggleSubmitInputElement()">Please get back to me!</textarea>
+            <textarea name="message" id="contact-message" placeholder="Enter your message" rows="6" required="" minlength="16" maxlength="256" onfocusout="toggleSubmitInputElement()">Please get back to me!</textarea>
         </div>
         <!-- Break -->
         <div class="col-12">
@@ -365,7 +365,7 @@
         contactFormElement.focus();
     }
 
-    const processContactRequest = function() {
+    /* const processContactRequest = function() {
         if (grecaptcha.getResponse(recaptchaWidget).length > 0) {
             sendContactMessage();
             hideModalWindow();
@@ -374,14 +374,14 @@
         } else {
             showModalWindow();
         }
-    };
+    }; */
 
     const resetContactForm = function() {
         contactFormElement.reset();
         disableSubmitInputElement();
     };
     
-    const sendContactMessage = function() {
+    /* const sendContactMessage = function() {
         const formData = new FormData();
         formData.append('name', encodeURI(nameInputElement.value));
         formData.append('email', encodeURI(emailInputElement.value));
@@ -393,7 +393,7 @@
             body: formData})
         .then((response) => alert('Message sent!'))
         .catch((error) => console.error('Error:', error));
-    };
+    }; */
     
     var onRecaptchaLoadCallback = function() {
         recaptchaWidget = grecaptcha.render("recaptcha-checkbox", {
