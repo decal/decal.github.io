@@ -1,0 +1,113 @@
+[{
+      "lang"           : "",
+      "title"          : "Error 404",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/404.html",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "",
+      "title"          : "secur.codes - Secure Your Codes",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Generic Page",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/generic/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "secur dot codes - Secure Your Codes",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Theme Elements Showcase",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/elements/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Landing Page",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/landing/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Legal Terms",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/legal-terms/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Privacy Policy",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/privacy-policy/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Politique de Confidentialité",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/politique-de-confidentialite/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Page Racine",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/racine/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Mentions Légales",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/mentions-legales/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Page Générique",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/generique/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Thème Jekyll Consulting",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Démonstration des Eléments du Thème",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/elements/",
+      "tags"           : "",
+      "date"           : ""
+    } ,{
+      "lang"           : "en",
+      "title"          : "Welcome to Jekyll!",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/en/jekyll/update/2019/02/08/welcome-to-jekyll/",
+      "tags"           : "",
+      "date"           : "2019-02-08 12:33:42 +0000"
+    } ,{
+      "lang"           : "fr",
+      "title"          : "Bienvenue sur Jekyll !",
+      "description"    : "Professional cybersecurity services including secure code review, application penetration testing, network vulnerability assessment and host security assessment.",
+      "url"            : "http://localhost:4000/fr/jekyll/update/2019/02/08/bienvenue/",
+      "tags"           : "",
+      "date"           : "2019-02-08 12:33:42 +0000"
+    } ]
